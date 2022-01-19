@@ -1,0 +1,8 @@
+--main--color: rgb(253, 142, 27);
+--main--color--cool: #feaa24
+--progress--color: rgb(40, 28, 133);
+--design--color: rgb(235, 156, 73);
+
+
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Oxygen', sans-serif;
